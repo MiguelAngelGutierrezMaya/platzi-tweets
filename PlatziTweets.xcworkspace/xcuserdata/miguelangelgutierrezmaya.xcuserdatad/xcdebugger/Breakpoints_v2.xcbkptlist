@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "536E2023-2958-4AEB-8A95-F6A75EE79630"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1662777E-E277-4B84-891A-06B75E761B38"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlatziTweets/Modules/Home/AddPostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "409"
+            endingLineNumber = "409"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F6D2EF8-E3E5-4195-BB60-143485E78A4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlatziTweets/Modules/Home/AddPostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "410"
+            endingLineNumber = "410"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98F608B9-9318-4ED0-B542-A1E05D5700C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlatziTweets/Modules/Home/AddPostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "344"
+            endingLineNumber = "344"
+            landmarkName = "savePost(imageUrl:videoUrl:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "98F608B9-9318-4ED0-B542-A1E05D5700C9 - 26b46dfc75905a6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Simple_Networking.SNResultWithEntity&lt;PlatziTweets.Post, PlatziTweets.ErrorApiResponse&gt;) -&gt; () in PlatziTweets.AddPostViewController.savePost(imageUrl: Swift.Optional&lt;Swift.String&gt;, videoUrl: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "PlatziTweets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miguelangelgutierrezmaya/Projects/xcode-workspace/PlatziTweets/PlatziTweets/Modules/Home/AddPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "345"
+                  endingLineNumber = "345"
+                  offsetFromSymbolStart = "732">
+               </Location>
+               <Location
+                  uuid = "98F608B9-9318-4ED0-B542-A1E05D5700C9 - 4ef9cd1445b39f68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlatziTweets.AddPostViewController.savePost(imageUrl: Swift.Optional&lt;Swift.String&gt;, videoUrl: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "PlatziTweets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miguelangelgutierrezmaya/Projects/xcode-workspace/PlatziTweets/PlatziTweets/Modules/Home/AddPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "344"
+                  endingLineNumber = "344"
+                  offsetFromSymbolStart = "772">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "337D6AD6-1B0C-4487-AA77-00830ACB9052"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlatziTweets/Modules/Home/AddPostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "327"
+            endingLineNumber = "327"
+            landmarkName = "savePost(imageUrl:videoUrl:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "337D6AD6-1B0C-4487-AA77-00830ACB9052 - 4ef9cd1445b39d59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlatziTweets.AddPostViewController.savePost(imageUrl: Swift.Optional&lt;Swift.String&gt;, videoUrl: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "PlatziTweets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miguelangelgutierrezmaya/Projects/xcode-workspace/PlatziTweets/PlatziTweets/Modules/Home/AddPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "327"
+                  endingLineNumber = "327"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "337D6AD6-1B0C-4487-AA77-00830ACB9052 - 4ef9cd1445b39d59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlatziTweets.AddPostViewController.savePost(imageUrl: Swift.Optional&lt;Swift.String&gt;, videoUrl: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "PlatziTweets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miguelangelgutierrezmaya/Projects/xcode-workspace/PlatziTweets/PlatziTweets/Modules/Home/AddPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "327"
+                  endingLineNumber = "327"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F28D7E22-B260-4B38-957F-EDE984AA91AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlatziTweets/Modules/Home/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "setupMarkers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

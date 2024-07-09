@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>78560771312-a9l6a043g8s64cn2602ikp498oobcn5j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.78560771312-a9l6a043g8s64cn2602ikp498oobcn5j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDTgMsd7TNoCDhMM-Buf6d80h8l3Yssl0g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>78560771312</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>keybe.inc.PlatziTweets</string>
+	<key>PROJECT_ID</key>
+	<string>platzitweets-52efc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>platzitweets-52efc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:78560771312:ios:cc03a6503cda4523fc5635</string>
+</dict>
+</plist>
